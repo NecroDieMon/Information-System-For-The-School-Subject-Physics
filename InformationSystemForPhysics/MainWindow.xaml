@@ -1,0 +1,49 @@
+﻿<Window x:Class="InformationSystemForPhysics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InformationSystemForPhysics"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Главное окно" Height="650" Width="1000" MinHeight="650" MinWidth="1000" WindowState="Maximized">
+    <Grid Background="#ffdadada">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="64*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="29*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="96*"/>
+            <ColumnDefinition Width="47*"/>
+            <ColumnDefinition Width="124*"/>
+            <ColumnDefinition Width="192*"/>
+            <ColumnDefinition Width="41*"/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="0" Grid.Row="0" Grid.RowSpan="6"  Background="Snow" CornerRadius="0 60 60 0">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="LightGray" ShadowDepth="6"/>
+            </Border.Effect>
+        </Border>
+        <Border Grid.Column="2" Grid.Row="0" Grid.ColumnSpan="2" Grid.RowSpan="6" Background="Snow">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="LightGray" ShadowDepth="6"/>
+            </Border.Effect>
+        </Border>
+        <Image Grid.Column="0" Grid.Row="0" Source="Resources/Logo.png" Margin="10" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Button x:Name="CurrentConversionToAmperes" Grid.Column="0" Grid.Row="1" Height="60" Margin="10 0 10 0" Content="Перевод силы тока в амперы" FontSize="10" FontWeight="Bold" Background="#FF349A9A" BorderBrush="#FF3BADAD" Click="CurrentConversionToAmperes_Click"/>
+        <Button x:Name="OhmLawCalculator" Grid.Column="0" Grid.Row="2" Height="60" Margin="10 0 10 0" Content="Калькулятор по закону Ома" FontSize="10" FontWeight="Bold" Background="#FF349A9A" BorderBrush="#FF3BADAD" Click="OhmLawCalculator_Click"/>
+        <Button x:Name="AddTheme" Grid.Column="0" Grid.Row="3" Height="60" Margin="10 0 10 0" Content="Добавить тему" FontWeight="Bold" Background="#FF68C8A3" BorderBrush="#FF85DEBC" Click="AddTheme_Click"/>
+        <Button x:Name="CallForHelp" Grid.Column="0" Grid.Row="4" Height="60" Margin="10 0 10 0" Content="Помощь" FontWeight="Bold" Background="#FF5B9C9E" BorderBrush="#FFA2C3D4" Click="CallForHelp_Click"/>
+        <Button x:Name="SelectTheme" Grid.Column="3" Grid.Row="4" Height="60" Margin="10 0 10 0" Content="Выбрать тему" FontSize="25" Background="#FF68C8A3" BorderBrush="#FF85DEBC" Click="SelectTheme_Click"/>
+        <DataGrid x:Name="DataThemsGrid" Grid.Column="2" Grid.Row="4" SelectionChanged="DataThemsGrid_SelectionChanged" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Темы" Binding="{Binding Path=NameTheme}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox x:Name="ThemeContent" Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="0" Grid.RowSpan="4" IsReadOnly="True" BorderBrush="Snow"/>
+    </Grid>
+</Window>
