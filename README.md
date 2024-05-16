@@ -22,23 +22,23 @@
 <h3>Скриншоты проекта:</h3>
 <figure>
 	<img src = "InformationSystemForPhysics/Images/Screen1.png">
-	<figcaption>Рисунок 1 - главное меню</figcaption>
+	<p style="text-align:center;">Рисунок 1 - главное меню</p>
 </figure>
 <figure>
 	<img src = "InformationSystemForPhysics/Images/Screen2.png">
-	<figcaption>Рисунок 2 - окно калькулятора перевода едениц тока в амперы</figcaption>
+	<p style="text-align:center;">Рисунок 2 - окно калькулятора перевода едениц тока в амперы</p>
 </figure>
 <figure>
 	<img src = "InformationSystemForPhysics/Images/Screen3.png">
-	<figcaption>Рисунок 3 - калькулятор вычисленя закона Ома</figcaption>
+	<p style="text-align:center;">Рисунок 3 - калькулятор вычисленя закона Ома</p>
 </figure>
 <figure>
 	<img src = "InformationSystemForPhysics/Images/Screen4.png">
-	<figcaption>Рисунок 4 - окно для добавления новой темы</figcaption>
+	<p style="text-align:center;">Рисунок 4 - окно для добавления новой темы</p>
 </figure>
 <figure>
 	<img src = "InformationSystemForPhysics/Images/Screen5.png">
-	<figcaption>Рисунок 5 - что выведется если нажать на кнопку "Помощь"</figcaption>
+	<p style="text-align:center;">Рисунок 5 - что выведется если нажать на кнопку "Помощь"</p>
 </figure>
 
 <h3>Видео демонстрация:</h3>
