@@ -21,6 +21,22 @@
 
 <h3>Скриншоты проекта:</h3>
 <figure>
-	<img src = "InformationSystemForPhysics/Images/Screen1.png" width="1166px" height="768px">
-	<figcaption>Рисунок 1 - просмотр темы</figcaption>
+	<img src = "InformationSystemForPhysics/Images/Screen1.png">
+	<figcaption>Рисунок 1 - главное меню</figcaption>
+</figure>
+<figure>
+	<img src = "InformationSystemForPhysics/Images/Screen2.png">
+	<figcaption>Рисунок 2 - окно калькулятора перевода едениц тока в амперы</figcaption>
+</figure>
+<figure>
+	<img src = "InformationSystemForPhysics/Images/Screen3.png">
+	<figcaption>Рисунок 3 - калькулятор вычисленя закона Ома</figcaption>
+</figure>
+<figure>
+	<img src = "InformationSystemForPhysics/Images/Screen4.png">
+	<figcaption>Рисунок 4 - окно для добавления новой темы</figcaption>
+</figure>
+<figure>
+	<img src = "InformationSystemForPhysics/Images/Screen5.png">
+	<figcaption>Рисунок 5 - что выведется если нажать на кнопку "Помощь"</figcaption>
 </figure>
