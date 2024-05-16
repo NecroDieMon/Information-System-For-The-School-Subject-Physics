@@ -40,3 +40,8 @@
 	<img src = "InformationSystemForPhysics/Images/Screen5.png">
 	<figcaption>Рисунок 5 - что выведется если нажать на кнопку "Помощь"</figcaption>
 </figure>
+
+<h3>Видео демонстрация:</h3>
+<video>
+ <source src="InformationSystemForPhysics/VideoDemonstration/MyVideoDemonstration.mp4">
+</video>
