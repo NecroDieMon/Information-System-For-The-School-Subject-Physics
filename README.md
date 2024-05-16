@@ -21,6 +21,6 @@
 
 <h3>Скриншоты проекта:</h3>
 <figure>
-	<img src = "https://github.com/NecroDieMon/Information-System-For-The-School-Subject-Physics.git/InformationSystemForPhysics/Images/Screen1.png">
+	<img src = "InformationSystemForPhysics/Images/Screen1.png">
 	<figcaption>Рисунок 1 - просмотр темы</figcaption>
 </figure>
