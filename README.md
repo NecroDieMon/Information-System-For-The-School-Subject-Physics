@@ -16,7 +16,7 @@
   <li>Язык программирования C#</li>
   <li>Среда разработки Visual Studio</li>
   <li>СУБД SQL Server Management Studio (SSMS)</li>
-  <li>Язык разметри XAML</li>
+  <li>Язык разметки XAML</li>
 </ul>
 
 <h3>Скриншоты проекта:</h3>
