@@ -24,6 +24,7 @@
 	<img src = "InformationSystemForPhysics/Images/Screen1.png">
 	<figcaption>Рисунок 1 - главное меню</figcaption>
 </figure>
+<p> </p>
 <figure>
 	<img src = "InformationSystemForPhysics/Images/Screen2.png">
 	<figcaption>Рисунок 2 - окно калькулятора перевода едениц тока в амперы</figcaption>
@@ -32,10 +33,12 @@
 	<img src = "InformationSystemForPhysics/Images/Screen3.png">
 	<figcaption>Рисунок 3 - калькулятор вычисленя закона Ома</figcaption>
 </figure>
+<p> </p>
 <figure>
 	<img src = "InformationSystemForPhysics/Images/Screen4.png">
 	<figcaption>Рисунок 4 - окно для добавления новой темы</figcaption>
 </figure>
+<p> </p>
 <figure>
 	<img src = "InformationSystemForPhysics/Images/Screen5.png">
 	<figcaption>Рисунок 5 - что выведется если нажать на кнопку "Помощь"</figcaption>
