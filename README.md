@@ -21,6 +21,6 @@
 
 <h3>Скриншоты проекта:</h3>
 <figure>
-	<img src = "InformationSystemForPhysics/Images/Screen1.png" width="100px" height="100px">
+	<img src = "InformationSystemForPhysics/Images/Screen1.png" width="1166px" height="768px">
 	<figcaption>Рисунок 1 - просмотр темы</figcaption>
 </figure>
