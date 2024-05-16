@@ -42,4 +42,7 @@
 </figure>
 
 <h3>Видео демонстрация:</h3>
-<video src="InformationSystemForPhysics/VideoDemonstration/MyVideoDemonstration.mp4" width="400" height="300" controls ></video>
+
+https://github.com/NecroDieMon/Information-System-For-The-School-Subject-Physics/assets/116455805/9a404c70-a30b-4fc0-ab4e-4f934c6bb99d
+
+/VideoDemonstration/MyVideoDemonstration.mp4" width="400" height="300" controls ></video>
