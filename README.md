@@ -22,27 +22,27 @@
 <h3>Скриншоты проекта:</h3>
 <figure>
 	<img src = "InformationSystemForPhysics/Images/Screen1.png">
-	<figcaption style=”margin-bottom:100px;”>Рисунок 1 - главное меню</figcaption>
+	<figcaption>Рисунок 1 - главное меню</figcaption>
 </figure>
 <figure>
 	<img src = "InformationSystemForPhysics/Images/Screen2.png">
-	<figcaption style=”margin-bottom:100px;”>Рисунок 2 - окно калькулятора перевода едениц тока в амперы</figcaption>
+	<figcaption>Рисунок 2 - окно калькулятора перевода едениц тока в амперы</figcaption>
 </figure>
 <figure>
 	<img src = "InformationSystemForPhysics/Images/Screen3.png">
-	<figcaption style=”margin-bottom:100px;”>Рисунок 3 - калькулятор вычисленя закона Ома</figcaption>
+	<figcaption>Рисунок 3 - калькулятор вычисленя закона Ома</figcaption>
 </figure>
 <figure>
 	<img src = "InformationSystemForPhysics/Images/Screen4.png">
-	<figcaption style=”margin-bottom:100px;”>Рисунок 4 - окно для добавления новой темы</figcaption>
+	<figcaption>Рисунок 4 - окно для добавления новой темы</figcaption>
 </figure>
 <figure>
 	<img src = "InformationSystemForPhysics/Images/Screen5.png">
-	<figcaption style=”margin-bottom:100px;”>Рисунок 5 - что выведется если нажать на кнопку "Помощь"</figcaption>
+	<figcaption>Рисунок 5 - что выведется если нажать на кнопку "Помощь"</figcaption>
 </figure>
 
 <h3>Видео демонстрация:</h3>
 
 https://github.com/NecroDieMon/Information-System-For-The-School-Subject-Physics/assets/116455805/9a404c70-a30b-4fc0-ab4e-4f934c6bb99d
 
-/VideoDemonstration/MyVideoDemonstration.mp4" width="400" height="300" controls ></video>
+
