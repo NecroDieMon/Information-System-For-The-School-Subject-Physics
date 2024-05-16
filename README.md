@@ -42,6 +42,4 @@
 </figure>
 
 <h3>Видео демонстрация:</h3>
-<video>
- <source src="InformationSystemForPhysics/VideoDemonstration/MyVideoDemonstration.mp4">
-</video>
+<video src="InformationSystemForPhysics/VideoDemonstration/MyVideoDemonstration.mp4" width="400" height="300" controls ></video>
